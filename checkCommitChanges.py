@@ -2,8 +2,8 @@ import requests
 import os
 
 # Constants
-GITHUB_USER = 'SyamalaKadmi'  
-REPO_NAME = 'CICDProjectPipeline'           
+GITHUB_USER = 'ankitalodha05'  
+REPO_NAME = 'cicdpROJECT'           
 TOKEN = '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'   
 STORAGE_FILE = 'last_commit.txt'
 
