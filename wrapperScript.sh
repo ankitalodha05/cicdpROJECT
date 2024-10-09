@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Execute the Python script to check for changes
-python3 checkPipelineChanges.py
+python3 checkCommitChanges.py
 
 # Check the exit status of the Python script
 if [ $? -eq 0 ]; then
