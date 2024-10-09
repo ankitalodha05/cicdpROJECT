@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-REPO_DIR="./CICDProjectPipeline"   # Path to your local Git repository
+REPO_DIR="./cicdpROJECT"   # Path to your local Git repository
 DEPLOY_DIR="/var/www/html"      # Path to your Nginx document root
 NGINX_SERVICE="nginx"           # Name of the Nginx service
 BRANCH="main"                   # Change to your default branch if needed
