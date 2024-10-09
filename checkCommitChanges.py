@@ -4,7 +4,7 @@ import os
 # Constants
 GITHUB_USER = 'ankitalodha05'  
 REPO_NAME = 'cicdpROJECT'           
-TOKEN = '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'   
+TOKEN = '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'   
 STORAGE_FILE = 'last_commit.txt'
 
 # Function to fetch latest commits from Github using Github API
